@@ -1,0 +1,3 @@
+{
+	"database": "mongodb://Peter:biodata01@cluster0-shard-00-00-4isud.mongodb.net:27017,cluster0-shard-00-01-4isud.mongodb.net:27017,cluster0-shard-00-02-4isud.mongodb.net:27017/dog_walker?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin"
+}
